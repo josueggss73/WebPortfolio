@@ -1,0 +1,51 @@
+body {
+    background-color: powderblue;
+  }
+/*
+#InfoCurso {
+    background-color: red;
+  }
+
+#InfoPersonal {
+    background-color: red;
+}
+
+#Actividades {
+    background-color: red;
+}
+*/
+h1 {
+    color: blue;
+}
+#Portada {
+    float:center;
+    width: 100%;
+    height: wrap;
+    flex-wrap: wrap;
+    background-color: gray; 
+}
+#Secciones{
+    float:center;
+    width: 100%;
+    height: wrap;
+    background-color: gray; 
+}
+.a {
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+    border: 1px solid blue;    
+    background-color: yellow; 
+}
+
+.b {
+    width: 300px;
+    height: 500px;
+    padding: 5px;
+    float: left;
+    border: 1px solid blue;    
+    background-color: yellow; 
+}
