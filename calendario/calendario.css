@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: greenyellow;
+}
+
+.mainPanel{
+    margin: auto;
+    text-align: center;
+    width: 90%;
+    height: 100%;
+    border-style: double;
+    background-color:darkblue;
+}
+
+.area1{
+    color: yellow;
+    height: 80px;
+    background-color:rgb(30,30,30);
+}
+
+.area1Sides{
+    margin: wrap;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 300px;
+    height: 60px;
+    float: left;
+    font-size: xx-large;
+}
+.area1Main{
+    margin-top: 10px;
+    width: 300px;
+    height: 60px;
+    float: left;
+    font-size: xx-large;
+    background-color:rgb(30,30,30);
+}
+
+.area2{
+    margin: wrap;
+    width: 60%;
+    height: 60px;
+    background-color:rgb(50,50,50);
+    color:greenyellow;
+}
+
+.area3{
+    margin: wrap;
+    height: 20px;
+    background-color:rgb(50,50,50);
+    color:greenyellow;
+}
+.area4{
+    margin: wrap;
+    height: 50px;
+    color: yellow;
+    background-color:rgb(30,30,30);
+}
