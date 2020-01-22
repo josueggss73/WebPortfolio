@@ -1,19 +1,7 @@
 body {
     background-color: powderblue;
   }
-/*
-#InfoCurso {
-    background-color: red;
-  }
 
-#InfoPersonal {
-    background-color: red;
-}
-
-#Actividades {
-    background-color: red;
-}
-*/
 h1 {
     color: blue;
 }
@@ -31,14 +19,17 @@ h1 {
     background-color: gray; 
 }
 .a {
-    width: 400px;
+    width: 40%;
     height: 400px;
     padding: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
     float: left;
     border: 1px solid blue;    
-    background-color: yellow; 
+    background-color: yellow;
+    align-items: center;
+    text-align: center;
 }
 
 .b {
@@ -48,4 +39,10 @@ h1 {
     float: left;
     border: 1px solid blue;    
     background-color: yellow; 
+}
+.nav-item{
+    float: right;
+}
+#linkJ{
+    float: right;
 }

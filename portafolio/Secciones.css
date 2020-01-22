@@ -1,0 +1,9 @@
+#section1{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.card{
+    float:left;
+    width:20%;
+    margin:2%;
+}
